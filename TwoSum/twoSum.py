@@ -24,4 +24,4 @@ class Solution(object):
 target = 10
 nums = [1,2,4,5,6,7,8]
 s = Solution()
-print(s.twoSum(nums, target))
+print(s.twoSum(nums, target))       
